@@ -1,5 +1,7 @@
 '''
-Generalized Coupon Collecting
+Generalized Coupon Collecting:
+Suppose that there is a collection of n uniformly distributed cards and for each packet there are m ≤ n (usually m << n) different cards.  
+Analyze the number of packets to buy to complete the collection in expectation and also in high probability.
 '''
 
 import random as rnd
