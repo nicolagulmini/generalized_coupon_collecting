@@ -11,6 +11,6 @@ Analyze the number of packets to buyto complete the collection in expectation an
 
 ![whp](https://user-images.githubusercontent.com/62892813/124184695-3c937100-daba-11eb-9221-410241ae4c7e.JPG)
 
-plots:
+## plots:
 
 ![n](https://user-images.githubusercontent.com/62892813/124184710-42895200-daba-11eb-8bae-45cd59d5f498.png)![m](https://user-images.githubusercontent.com/62892813/124184714-4321e880-daba-11eb-9c26-b03686a80568.png)
